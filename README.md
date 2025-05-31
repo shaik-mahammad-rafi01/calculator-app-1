@@ -11,7 +11,7 @@
 
 
 ### Features
-
++ **Addition** : Adds two numbers
 ### Technologies Used
 
 **TypeScript** 
