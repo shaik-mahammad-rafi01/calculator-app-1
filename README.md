@@ -11,7 +11,11 @@
 
 
 ### Features
+
 + **Addition** : Adds two numbers
+
++ **subtraction** : Subtracts one number from another.
+
 ### Technologies Used
 
 **TypeScript** 
