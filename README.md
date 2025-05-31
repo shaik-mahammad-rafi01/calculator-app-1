@@ -11,7 +11,7 @@
 
 
 ### Features
-
++ **subtraction** : Subtracts one number from another.
 ### Technologies Used
 
 **TypeScript** 
